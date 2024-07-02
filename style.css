@@ -40,7 +40,7 @@ border-radius: 5px;
 padding: 5px;
 color: var(--branco_principal);
 display: block;
-text-decoration none;
+text-decoration: none;
 margin-bottom: 1em;
 }
 
@@ -137,7 +137,7 @@ font-weight: 700;
 
 .rodape__texto{
     margin:1em 0;
-    color: var(--cinza-secundario)
+    color: var(--cinza-secundario);
     font-size: 14px;
    }
 
